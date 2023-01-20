@@ -1,0 +1,9 @@
+.card {
+    border: solid red;
+    display: flex;
+    flex-direction: column;
+}
+
+.cardH2s {
+    color: green;
+}
